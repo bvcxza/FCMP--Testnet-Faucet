@@ -2,7 +2,7 @@
 
 A simple web application with a backend for a Monero testnet faucet. It provides a web UI and an API endpoint to request testnet XMR.
 
-Example @ https://faucet.xmr.pt
+Instance running as tor hidden service: http://e3ro2dfrvkpxgcmcnyw2xvd3mqpv25yijimx4637bucfsvvdq4flnnad.onion
 
 ## Requirements
 
@@ -90,4 +90,10 @@ A successful request will return a JSON response like this:
 ## Disclaimer
 
 This is a proof-of-concept and should be used for testing purposes only. Ensure your `monero-wallet-rpc` is not exposed to the public internet without proper security measures.
-This code was generated using an AI.
+
+## Donations
+
+Please consider donating to support the development of this project.
+
+[Monero (XMR)](https://www.getmonero.org): 8AADjm5nz4GXXn7Tf6FNfwCaAjAdkvdUs5KgRwBGUj2NHwWqkxbfLzYPom3mL6a1cN1aypyfvyzaxHAM8aARbafFKkABT6Z
+
