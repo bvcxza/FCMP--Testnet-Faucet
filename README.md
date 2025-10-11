@@ -4,6 +4,8 @@ A simple web application with a backend for a Monero testnet faucet. It provides
 
 Instance running as tor hidden service: http://e3ro2dfrvkpxgcmcnyw2xvd3mqpv25yijimx4637bucfsvvdq4flnnad.onion
 
+[FCMP++ / Carrot alpha stressnet node and wallet binaries](https://github.com/seraphis-migration/monero/releases)
+
 ## Requirements
 
 - Node.js
